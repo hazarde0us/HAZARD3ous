@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HAZARD3ous
 - 👀 I’m interested in ... Competitive Coding and ML
 - 🌱 I’m currently learning ... c++, python libraries
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...literally anything(desperatly)
 - 📫 How to reach me ... slide into my dm 
 
 <!---
